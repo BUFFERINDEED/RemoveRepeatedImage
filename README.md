@@ -39,6 +39,8 @@ Arguments:
 
 used to remove repeated image in specified path, will reserve the largest one.
 
+
+
 ### SearchSameImage(path, searchedFilename, hashType="phash")
 
 used to find all same image to the file corresponding to **searchedFilename**
