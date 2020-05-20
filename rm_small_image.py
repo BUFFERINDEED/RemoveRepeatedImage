@@ -88,4 +88,4 @@ if __name__ == "__main__":
 #                    "photo_263@19-03-2018_16-58-04.jpg",
 #                    "phash")
 
-    # main()
+     main()
