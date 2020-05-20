@@ -9,7 +9,7 @@
   * Recommend install with **pip install pillow**, if you want to remove repeated webp. more details please refer to hint below.
 * python-magic (tested with 0.4.18)
 
-**Hint: **
+**Hint**:
 
 1. Once I was dealing with webp image, with pillow installed by conda, I found I can't open webp directly from Image.open(io.BytesIO(some_bytes_data)), while the pillow installed by pip worked well. I turned out to be the reason of conda didn't dealing with libwebp perfectly.
 
